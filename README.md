@@ -28,6 +28,10 @@ Feel free to make pull requests.
 
 # Prompt Help
 - [Browse prompts](https://lexica.art/)
+- [Browse artists](https://rentry.org/artists_sd-v1-4)
+- [Browse artists](https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7?v=fdf861d1c65d456e98904fe3f3670bd3)
+- [Browse training images](https://rom1504.github.io/clip-retrieval/?)
+- [Browse training images](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
 - [Image to prompt](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo)
 
 # GitHub Repos
