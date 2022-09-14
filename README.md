@@ -1,5 +1,7 @@
 # Stable Diffusion Info
 
+Feel free to make pull requests.
+
 # Try online
 
 `txt2img`
