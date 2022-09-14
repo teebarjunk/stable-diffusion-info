@@ -11,6 +11,8 @@ Feel free to make pull requests.
 
 `img2img`
 - `1.4` [HuggingFace](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+- [Artbreeder](https://www.artbreeder.com/beta/collage)
+- [Draw Anthing](https://www.drawanything.app/editor)
 
 # Art program plugins
 - [Krita](https://github.com/sddebz/stable-diffusion-krita-plugin)
@@ -21,5 +23,9 @@ Feel free to make pull requests.
 # Other
 - [Stability.ai Updates](https://www.twitter.com/EMostaque)
 
-# GitHub Repo's
+# Prompt Help
+- [Browse prompts](https://lexica.art/)
+- [Image to prompt](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo)
+
+# GitHub Repos
 - Outpainting on infinite canvas [[Github](https://github.com/lkwq007/stablediffusion-infinity)] [[Twitter]( https://twitter.com/lkwq007/status/1570089301194711040)]
