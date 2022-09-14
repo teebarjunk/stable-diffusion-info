@@ -7,7 +7,7 @@
 - `1.4` [HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - `1.4` [Dezgo](https://dezgo.com)
 
-- `img2img`
+`img2img`
 - `1.4` [HuggingFace](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 
 # Art program plugins
