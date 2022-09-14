@@ -14,6 +14,9 @@ Feel free to make pull requests.
 - [Artbreeder](https://www.artbreeder.com/beta/collage)
 - [Draw Anthing](https://www.drawanything.app/editor)
 
+`other`
+- [Wrapping texture generator](https://replicate.com/tommoore515/material_stable_diffusion)
+
 # Art program plugins
 - [Krita](https://github.com/sddebz/stable-diffusion-krita-plugin)
 - [Krita](https://www.flyingdog.de/sd/en)
