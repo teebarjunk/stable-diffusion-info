@@ -1,10 +1,14 @@
 # Stable Diffusion Info
 
 # Try online
-- `txt2img` `1.5` [Dream Studio](https://beta.dreamstudio.ai)
-- `txt2img` `1.4` [HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-- `txt2img` `1.4` [Dezgo](https://dezgo.com)
-- `img2img` `1.4` [HuggingFace](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
+
+`txt2img`
+- `1.5` [Dream Studio](https://beta.dreamstudio.ai)
+- `1.4` [HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- `1.4` [Dezgo](https://dezgo.com)
+
+- `img2img`
+- `1.4` [HuggingFace](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 
 # Art program plugins
 - [Krita](https://github.com/sddebz/stable-diffusion-krita-plugin)
