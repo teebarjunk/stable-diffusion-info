@@ -16,6 +16,10 @@ Feel free to make pull requests.
 - [Krita](https://github.com/sddebz/stable-diffusion-krita-plugin)
 - [Krita](https://www.flyingdog.de/sd/en)
 - [Gimp](https://github.com/blueturtleai/gimp-stable-diffusion)
+- [Photoshop](https://christiancantrell.com/#ai-ml)
 
 # Other
 - [Stability.ai Updates](https://www.twitter.com/EMostaque)
+
+# GitHub Repo's
+- Outpainting on infinite canvas [[Github](https://github.com/lkwq007/stablediffusion-infinity)] [[Twitter]( https://twitter.com/lkwq007/status/1570089301194711040)]
